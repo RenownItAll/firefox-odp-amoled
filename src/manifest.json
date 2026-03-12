@@ -1,0 +1,63 @@
+{
+  "manifest_version": 3,
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{27f53745-2412-4124-8e9b-058260ed7e10}"
+    }
+  },
+  "version": "1.2",
+  "name": "One Dark Pro AMOLED",
+  "description": "One Dark Pro theme with OLED-optimized true black background",
+  "theme": {
+    "colors": {
+      "frame": "#000000",
+      "frame_inactive": "#0d0d0d",
+
+      "tab_background_text": "#abb2bf",
+      "tab_text": "#d7dae0",
+      "tab_selected": "#181818",
+      "tab_line": "#61afef",
+      "tab_loading": "#56b6c2",
+
+      "toolbar": "#0a0a0a",
+      "toolbar_text": "#d7dae0",
+      "toolbar_top_separator": "#1a1a1a",
+      "toolbar_bottom_separator": "#1a1a1a",
+      "toolbar_vertical_separator": "#1a1a1a",
+
+      "toolbar_field": "#101010",
+      "toolbar_field_text": "#d7dae0",
+      "toolbar_field_focus": "#181818",
+      "toolbar_field_text_focus": "#d7dae0",
+      "toolbar_field_border": "#1a1a1a",
+      "toolbar_field_border_focus": "#61afef",
+      "toolbar_field_highlight": "#1a1a1a",
+      "toolbar_field_highlight_text": "#d7dae0",
+
+      "icons": "#abb2bf",
+      "icons_attention": "#e06c75",
+
+      "button_background_active": "#101010",
+      "button_background_hover": "#181818",
+
+      "bookmark_text": "#d7dae0",
+
+      "popup": "#0a0a0a",
+      "popup_text": "#d7dae0",
+      "popup_border": "#1a1a1a",
+      "popup_highlight": "#181818",
+      "popup_highlight_text": "#d7dae0",
+
+      "sidebar": "#000000",
+      "sidebar_text": "#abb2bf",
+      "sidebar_border": "#1a1a1a",
+      "sidebar_highlight": "#181818",
+      "sidebar_highlight_text": "#d7dae0",
+
+      "ntp_background": "#000000",
+      "ntp_card_background": "#0a0a0a",
+      "ntp_text": "#d7dae0"
+    }
+  }
+}
+
